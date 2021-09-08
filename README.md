@@ -1,4 +1,5 @@
-# OpenPose-body-25-joint-angle-recognition-dataset
+# Predict joint angle of body parts based on sequence pattern recognition tester source and dataset:
+to test models you have to put all csv and npy files to data folder and select joint number in modelTester.py line 10<br/>
 A dataset created by output of OpenPose 25-body model and joint angle label<br/>
 xtrain[1-12].npy contain real-world image output and<br/>
 Ytrain.csv is its label.<br/>
