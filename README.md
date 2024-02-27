@@ -1,4 +1,10 @@
 # Predict joint angle of body parts based on sequence pattern recognition tester source and dataset:
+
+
+if you want to use this dataset, you have to cite:
+https://ieeexplore.ieee.org/document/9721801
+
+
 to test models you have to put all csv and npy files to data folder and select joint number in modelTester.py line 10<br/>
 A dataset created by output of OpenPose 25-body model and joint angle label<br/>
 xtrain[1-12].npy contain real-world image output and<br/>
